@@ -19,9 +19,16 @@ git add .
 git commit -m "注释"  
 git remote add origin https://github.com/top1944/2018-Autonomous-Navigation-Paper-Selected.git  
 git push -u origin master  
-git pull --rebase origin master
 
-ssh权限查看
+## githu删除命令  
+cd D:\github\2018-Autonomous-Navigation-Paper-Selected  
+git pull origin master 将远程仓库里面的项目拉下来  
+ls  查看有哪些文件夹   
+git rm -r --cached target  删除target文件夹  
+git commit -m '注释'  提交,添加操作说明    
+git push -u origin master 将本次更改更新到github项目上去  
+
+## ssh权限查看
 ssh -T git@github.com  
 
 如果没有密钥，则通过密钥生成   
