@@ -1,4 +1,6 @@
 # 正在阅读论文列表
+
+## VI
 1. Build Your Own Visual-Inertial Drone: A Cost-Effective and Open-Source Autonomous Drone   
 
 Inkyu Sa;   Mina Kamel;   Michael Burri;   Michael Bloesch;   Raghav Khanna;   Marija Popovic;   Juan Nieto;   Roland Siegwart     
@@ -11,7 +13,13 @@ Year: 2017, Volume: PP, Issue: 99
  视频：http://news.mit.edu/2018/mit-csail-programming-drones-fly-face-uncertainty-0212  
  代码：https://github.com/peteflorence/nanomap_ros
  
+## other/
+1.Towards a science of integrated AI and Robotics
 
+Rajan K, Saffiotti A. Towards a science of integrated AI and Robotics[J]. Artificial Intelligence, 2017.
+
+60年前，AI与Robotics分道扬镳，但为了共同的理想，一个沿着top-down另一个沿着bottom-up的路径发展，均取得巨大成就。今天，新一代的机器人需要更高的智能，AI也需要更有挑战性的应用场景，二者将重新合流，融为一体。
+ 
  
  
  ![Image text](paper.jpg)
