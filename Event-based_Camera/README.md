@@ -17,7 +17,15 @@ To go faster, we need faster sensors!
 http://rpg.ifi.uzh.ch/davis_data.html  
 http://rpg.ifi.uzh.ch/research_dvs.html
  
- 
+ROS DVS driver + intrinsic and extrinsic stereo calibration open source:  
+https://github.com/uzh-rpg/rpg_dvs_ros
+
+DVS software for Windows and Linux (lot of utilities for LED, line, blob tracking, and even
+processing)  
+http://sourceforge.net/p/jaer/wiki/jAER%20Installation/  
+http://sourceforge.net/p/jaer/wiki/jAER%20USB%20Driver%20Install/  
+
+  
 2. Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High Speed Scenarios.pdf
 
 https://spectrum.ieee.org/automaton/robotics/drones/drone-with-event-camera-takes-first-autonomous-flight
