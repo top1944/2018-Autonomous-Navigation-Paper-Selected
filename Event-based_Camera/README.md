@@ -1,5 +1,11 @@
 龟速SLAM已经over了，未来主要就是解决高速SLAM的问题了。高速/鲁棒SLAM并进一步与控制结合，对于对于无人车，无人机等高动态vehicle都是非常重要的。
 
+Currently, the average robot-vision algorithms have latencies of 50-200 ms.  
+This puts a hard bound on the agility of the platform. [Censi & Scaramuzza, ICRA’14]  
+To go faster, we need faster sensors!
+
+ ![Image text](camera_parameter.png)
+
 # 正在阅读论文列表
 
 0.ppt-Tutorial on Event-based Vision for High-Speed Robotics
