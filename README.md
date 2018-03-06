@@ -11,7 +11,7 @@ https://github.com/SLAM-future
 
 1. ppt-Tutorial on Event-based Vision for High-Speed Robotics
 
-1. The Event-Camera Dataset and Simulator_ Event-based Data for Pose Estimation, Visual Odometry, and SLAM
+2. The Event-Camera Dataset and Simulator_ Event-based Data for Pose Estimation, Visual Odometry, and SLAM
 
 仿真环境/数据集与ROSbag数据包
 
@@ -27,7 +27,7 @@ http://sourceforge.net/p/jaer/wiki/jAER%20Installation/
 http://sourceforge.net/p/jaer/wiki/jAER%20USB%20Driver%20Install/  
 
   
-1. Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High Speed Scenarios.pdf
+2. Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High Speed Scenarios.pdf
 
 https://spectrum.ieee.org/automaton/robotics/drones/drone-with-event-camera-takes-first-autonomous-flight  
 
@@ -35,21 +35,21 @@ https://spectrum.ieee.org/automaton/robotics/drones/drone-with-event-camera-take
 ## VI 
 1. Build Your Own Visual-Inertial Drone: A Cost-Effective and Open-Source Autonomous Drone   
 
-Inkyu Sa;   Mina Kamel;   Michael Burri;   Michael Bloesch;   Raghav Khanna;   Marija Popovic;   Juan Nieto;   Roland Siegwart     
-IEEE Robotics & Automation Magazine    
-Year: 2017, Volume: PP, Issue: 99   
-代码：https://github.com/ethz-asl/mav_dji_ros_interface  
+	Inkyu Sa;   Mina Kamel;   Michael Burri;   Michael Bloesch;   Raghav Khanna;   Marija Popovic;   Juan Nieto;   Roland Siegwart     
+	IEEE Robotics & Automation Magazine    
+	Year: 2017, Volume: PP, Issue: 99   
+	代码：https://github.com/ethz-asl/mav_dji_ros_interface  
 
- 2. NanoMap: Fast, Uncertainty-Aware Proximity Queries with Lazy Search over Local 3D Data
+2. NanoMap: Fast, Uncertainty-Aware Proximity Queries with Lazy Search over Local 3D Data
  
- 视频：http://news.mit.edu/2018/mit-csail-programming-drones-fly-face-uncertainty-0212  
- 代码：https://github.com/peteflorence/nanomap_ros
+	视频：http://news.mit.edu/2018/mit-csail-programming-drones-fly-face-uncertainty-0212  
+	代码：https://github.com/peteflorence/nanomap_ros
  
- 龟速SLAM已经over了，未来主要就是解决高速SLAM的问题了。高速/鲁棒SLAM并进一步与控制结合，对于对于无人车，无人机等高动态vehicle都是非常重要的。
+	龟速SLAM已经over了，未来主要就是解决高速SLAM的问题了。高速/鲁棒SLAM并进一步与控制结合，对于对于无人车，无人机等高动态vehicle都是非常重要的。
 
-Currently, the average robot-vision algorithms have latencies of 50-200 ms.  
-This puts a hard bound on the agility of the platform. [Censi & Scaramuzza, ICRA’14]  
-To go faster, we need faster sensors!
+	Currently, the average robot-vision algorithms have latencies of 50-200 ms.  
+	This puts a hard bound on the agility of the platform. [Censi & Scaramuzza, ICRA’14]  
+	To go faster, we need faster sensors!
 
  ![Image text](pic/camera_parameter.png)
 
