@@ -9,9 +9,9 @@ https://github.com/SLAM-future
 ----------------------
 ## SLAM-Event-based Vision
 
-1.ppt-Tutorial on Event-based Vision for High-Speed Robotics
+1. ppt-Tutorial on Event-based Vision for High-Speed Robotics
 
-1.The Event-Camera Dataset and Simulator_ Event-based Data for Pose Estimation, Visual Odometry, and SLAM
+1. The Event-Camera Dataset and Simulator_ Event-based Data for Pose Estimation, Visual Odometry, and SLAM
 
 仿真环境/数据集与ROSbag数据包
 
@@ -55,7 +55,7 @@ To go faster, we need faster sensors!
 
  -------------------------------------
 ## other/
-1.Towards a science of integrated AI and Robotics
+1. Towards a science of integrated AI and Robotics
 
 Rajan K, Saffiotti A. Towards a science of integrated AI and Robotics[J]. Artificial Intelligence, 2017.
 
