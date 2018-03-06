@@ -1,7 +1,7 @@
 # 正在阅读论文列表
 -----------------------
 ## SLAM综述
-*1. SLAM: Towards the Robust-Perception Age  
+1. SLAM: Towards the Robust-Perception Age  
 数据集：  
 https://slam-future.github.io/  
 https://github.com/SLAM-future  
@@ -9,9 +9,9 @@ https://github.com/SLAM-future
 ----------------------
 ## SLAM-Event-based Vision
 
-*1.ppt-Tutorial on Event-based Vision for High-Speed Robotics
+1.ppt-Tutorial on Event-based Vision for High-Speed Robotics
 
-*1.The Event-Camera Dataset and Simulator_ Event-based Data for Pose Estimation, Visual Odometry, and SLAM
+1.The Event-Camera Dataset and Simulator_ Event-based Data for Pose Estimation, Visual Odometry, and SLAM
 
 仿真环境/数据集与ROSbag数据包
 
@@ -27,7 +27,7 @@ http://sourceforge.net/p/jaer/wiki/jAER%20Installation/
 http://sourceforge.net/p/jaer/wiki/jAER%20USB%20Driver%20Install/  
 
   
-*1. Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High Speed Scenarios.pdf
+1. Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High Speed Scenarios.pdf
 
 https://spectrum.ieee.org/automaton/robotics/drones/drone-with-event-camera-takes-first-autonomous-flight  
 
