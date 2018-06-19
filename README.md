@@ -121,7 +121,7 @@ Rajan K, Saffiotti A. Towards a science of integrated AI and Robotics[J]. Artifi
 cd D:\github\2018-Autonomous-Navigation-Paper-Selected  
 git init  
 git add .  
-git commit -m "注释"  
+git commit -m "20180619结构调整"  
 git remote add origin https://github.com/top1944/2018-Autonomous-Navigation-Paper-Selected.git  
 git push -u origin master  
 
