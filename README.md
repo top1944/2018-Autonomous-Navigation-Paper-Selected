@@ -14,8 +14,11 @@ Top Liu收集阅读的自动驾驶/自主导航文献，持续更新中...
 2.《第一本无人驾驶技术书》 基本知识系统而全面
 
 作者刘少山是PerceptIn联合创始人，加州大学欧文分校计算机博士。
+
 ![Image text](https://images-cn.ssl-images-amazon.com/images/I/51EqlykIG6L._SX377_BO1,204,203,200_.jpg)
+
  https://www.amazon.cn/dp/B07233NSW7/ref=sr_1_2?ie=UTF8&qid=1529376406&sr=8-2&keywords=%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6
+ 
  
 ## 机器人学预备知识
  
@@ -123,7 +126,14 @@ git init
 git add .  
 git commit -m "20180619结构调整"  
 git remote add origin https://github.com/top1944/2018-Autonomous-Navigation-Paper-Selected.git  
-git push -u origin master  
+git push -u origin master 
+
+
+git init 
+git add -A
+git commit -m "20180619结构调整"  
+git remote add origin https://github.com/top1944/2018-Autonomous-Navigation-Paper-Selected.git 
+git push --force origin  master
 
 ## githu删除命令  
 cd D:\github\2018-Autonomous-Navigation-Paper-Selected  
