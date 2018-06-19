@@ -1,3 +1,52 @@
+Top Liu收集阅读的自动驾驶/自主导航文献，持续更新中...
+
+# 学习步骤：  
+（如果你的英文基础比较差，推荐以下两本中文书，并停止阅读本博客，因为本专题主要都是英文文献）  
+
+## 中文书籍推荐  
+
+1.《无人驾驶》 非常棒的入门读物！   
+如果有人想要找一本关于无人驾驶汽车的书——智能的、广泛运用的、非教科书的、适合大众读者的——利普森教授的书将是很好的选择。
+
+ ![Image text](https://images-cn.ssl-images-amazon.com/images/I/61%2BgFcYFiRL._SX357_BO1,204,203,200_.jpg)
+ https://www.amazon.cn/dp/B0719JZ6L1/ref=sr_1_1?ie=UTF8&qid=1529376406&sr=8-1&keywords=%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6
+ 
+2.《第一本无人驾驶技术书》 基本知识系统而全面
+
+作者刘少山是PerceptIn联合创始人，加州大学欧文分校计算机博士。
+![Image text](https://images-cn.ssl-images-amazon.com/images/I/51EqlykIG6L._SX377_BO1,204,203,200_.jpg)
+ https://www.amazon.cn/dp/B07233NSW7/ref=sr_1_2?ie=UTF8&qid=1529376406&sr=8-2&keywords=%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6
+ 
+## 机器人学预备知识
+ 
+如果你对机器人一无所知，推荐ETH以下入门课程  
+首先推荐：Autonomous Mobile Robots  
+网页中的其他几门课有能力也鼓励学习     
+http://www.asl.ethz.ch/education/lectures.html  
+
+
+Programming for Robotics - ROS  
+http://www.rsl.ethz.ch/education-students/lectures/ros.html
+
+中文版及相关习题解答，参考瑞雷老师博客  
+https://blog.csdn.net/zhangrelay/article/details/79463689
+
+
+## 入门无人驾驶汽车  
+1.经典必读  
+首先是无人驾驶汽车之父Sebastian Thrun的两篇经典论文，体验一下真车的感受。 
+其他的再继续补充。
+
+2.综述  
+如果你是研究人员或学校里的研究生，那首先阅读综述，了解当前最新研究动态是必须的。
+
+3-自主平台系统与架构  
+一些经典的平台设计，可作为参考。
+  
+
+
+———————————————————————————————————
+
 # 正在阅读论文列表
 -----------------------
 ## SLAM综述
